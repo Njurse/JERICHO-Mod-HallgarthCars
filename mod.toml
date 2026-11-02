@@ -1,0 +1,10 @@
+id = "hallgarthcars"
+name = "Hallgarth's Cars"
+version = "0.1.0"
+# the JERICHO interface (SDK) this mod is built against
+interface = 3
+author = "Hallgarth, Jaret Ludvik"
+description = "Hallgarth's Pontiac Firebird as a BAKE car bank (HALLCHCG, Chicago model 1 slot): clean, damaged and low LODs with its own wheels and sounds. Data only: register banks/hallchcg/cities.ini and import it with carhacks."
+# data-only vehicle pack: no DLL, nothing compiled (no runtime = "dll")
+dependencies = ["carhacks"]
+default-enabled = false
