@@ -1,0 +1,6 @@
+# local bake output and editor leftovers
+banks/*/build/
+banks/*/donor/
+*.blend1
+*.bak-grok*
+preview.stop

@@ -1,0 +1,37 @@
+{
+    "variants":  {
+                     "CLEANWHEEL":  true,
+                     "DAMWHEEL":  true,
+                     "FASTWHEEL":  true
+                 },
+    "records":  {
+                    "clean":  {
+                                  "set":  50,
+                                  "island":  [
+                                                 192,
+                                                 0,
+                                                 256,
+                                                 64
+                                             ]
+                              },
+                    "damaged":  {
+                                    "set":  50,
+                                    "island":  [
+                                                   192,
+                                                   64,
+                                                   256,
+                                                   128
+                                               ]
+                                },
+                    "fast":  {
+                                 "set":  50,
+                                 "island":  [
+                                                192,
+                                                128,
+                                                256,
+                                                192
+                                            ]
+                             }
+                },
+    "note":  "variants: true = the bank carries this wheel model. records: the page set and crop rect it names, which is what a declaration needs to carry it again"
+}
