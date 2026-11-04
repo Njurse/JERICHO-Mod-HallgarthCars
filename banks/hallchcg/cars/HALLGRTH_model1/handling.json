@@ -1,7 +1,7 @@
 {
   "model": 1,
   "clean": "Firebird_high.obj",
-  "damaged": "CHICAGO_model1_damaged.obj",
+  "damaged": "Firebird_high.obj",
   "low": "Firebird_low_scaled.obj",
   "wheels": {
     "clean": {"png": "../../shared/textures/wheelclean.png", "set": 50, "island": [192, 0, 256, 64]},
