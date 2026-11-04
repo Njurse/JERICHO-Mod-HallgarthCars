@@ -32,6 +32,6 @@ Rebuild after editing the car's OBJ or bank.json:
   rebake.bat
 
 0.1.4: handling.json points damaged at Firebird_high.obj (PAGE_65/66/67).
-The HALLCHCG.LEV / .LCF beside this file are still the 0.1.3 bake.
-Rebake on Babou (rebake.bat, --scale 1) and replace this pair before the
-0.1.4 store zip. A zip of the old pair with the new handling is inconsistent.
+HALLCHCG.LEV / .LCF beside this file are the Babou rebake (LEV 186368 bytes).
+HALLCHCG.report.json: city HALLCHCG, one car (slot 1, HALLGRTH_model1),
+sets 50/65/66/67, checks.ok. Bank name stays HALLCHCG.
