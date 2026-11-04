@@ -9,8 +9,8 @@
     "schema": 1,
     "name": "HALLCHCG",
     "donor": {"city": "CHICAGO", "lev": "donor/HALLCHCG.donor.LEV"},
-    "order": [{"slot": 1, "car": "CHICAGO_model1"}],
+    "order": [{"slot": 1, "car": "HALLGRTH_model1"}],
     "palette_from_pages": true,
-    "cars": {"CHICAGO_model1": "cars/CHICAGO_model1/handling.json"}
+    "cars": {"HALLGRTH_model1": "cars/HALLGRTH_model1/handling.json"}
   }
 }
